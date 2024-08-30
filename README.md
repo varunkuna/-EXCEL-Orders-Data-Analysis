@@ -30,5 +30,5 @@ This Excel project provides a comprehensive analysis of sales data, focusing on 
 4. Refer to the README.md file for additional guidance on interpreting the visualizations and understanding the project scope.
 
 ## Credits
-- Data Source: https://github.com/HarshChaudhary1312/Excel-Sales_Data_Analysis/blob/main/Dataset%20-%20EXCEL%20PORT%20RO.xlsx
+- Data Source: https://github.com/Varunkuna07/Excel-Sales_Data_Analysis/blob/main/Dataset%20-%20EXCEL%20PORT%20RO.xlsx
 - Visualization Tools: Microsoft Excel
